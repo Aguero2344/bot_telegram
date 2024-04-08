@@ -1,4 +1,0 @@
-asyncio
-pandas
-python-telegram-bot
-telethon
